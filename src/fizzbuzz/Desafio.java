@@ -14,6 +14,8 @@ public class Desafio {
             System.out.println("Fizz");
         }else if (N%5 == 0){
             System.out.println("Buzz");
+        }else{
+            System.out.println(N);
         }
     }
 }
